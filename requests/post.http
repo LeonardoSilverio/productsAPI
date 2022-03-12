@@ -1,0 +1,9 @@
+//New Product
+###
+POST http://localhost:3000/products
+content-type: application/json
+
+{
+    "name": "MilkShake",
+    "price": "9.99"
+}

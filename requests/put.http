@@ -1,0 +1,9 @@
+//Update Product by Id
+###
+PUT http://localhost:3000/products/dbcfffb2-53e3-4ede-940a-ed971cdd2bf2
+content-type: application/json
+
+{
+    "name": "X-Egg Double",
+    "price": "25.50"
+}

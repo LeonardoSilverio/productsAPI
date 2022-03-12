@@ -1,0 +1,11 @@
+//Create Database
+###
+GET http://localhost:3000/database
+
+//Return all Products
+###
+GET http://localhost:3000/products
+
+//Return Product by Id
+###
+GET http://localhost:3000/products/b46def29-1975-4df1-8454-4ea02f791e3a
