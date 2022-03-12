@@ -4,5 +4,5 @@ My first API with Node.js !
 - Node.js
 - Express
 - Crud (Get , Post , Put and Delete)
-- Using array with Database
+- Using array as Database
 - Requests Folder
